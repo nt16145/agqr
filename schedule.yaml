@@ -1,0 +1,46 @@
+agqr:
+  - record: true
+    title:  kayona
+    personality: kekke_sawa
+    movie: true
+    date:
+      wday: 3
+      hour: 0
+      min: 00
+      time: 3615
+  - record: true
+    title:  suiyona
+    personality: yu-ma
+    movie: true
+    date:
+      wday: 4
+      hour: 0
+      min: 00
+      time: 3615
+  - record: true
+    title: RCC
+    personality: anju
+    movie: false
+    date:
+      wday: 4
+      hour: 19
+      min: 30
+      time: 1815
+  - record: true
+    title: fuwasata
+    personality: suwawa
+    movie: true
+    date:
+      wday: 6
+      hour: 18
+      min: 00
+      time: 1815
+  - record: true
+    title: kanasara
+    personality: King
+    movie: false
+    date:
+      wday: 0
+      hour: 18
+      min: 30
+      time: 1815
