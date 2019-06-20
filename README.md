@@ -22,7 +22,7 @@ agqr.rbの方は[ybenjo/agqr.rb](https://gist.github.com/ybenjo/9904543)さん�
 ## 必要なもの
 - Ruby 2.x系(1.9.xは未確認ですがおそらく動きます)
 - rtmpdump
-- ffmepeg
+- ffmpeg
 - cron
 - Python3系
 - PyDrive
